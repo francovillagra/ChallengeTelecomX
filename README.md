@@ -34,3 +34,36 @@ cd telecom-x-churn
 
 # Instalar dependencias
 pip install -r requirements.txt
+```
+### Dependencias
+
+* Python 3.x
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Requests
+
+### Uso
+```bash
+# Ejecutar script principal
+python main.py
+
+# Abrir notebooks interactivos
+jupyter notebook
+```
+
+### Análisis y Resultados
+### Pasos realizados
+
+1. Importación de datos desde la API de Telecom X.
+2. Transformación y limpieza para asegurar consistencia.
+3. EDA: análisis de variables relacionadas con la evasión.
+4. Visualizaciones: gráficos estratégicos para detectar patrones.
+5. Insights: hallazgos relevantes para la retención de clientes.
+
+### Contribuciones
+
+1. Hacer fork del repositorio
+2. Crear una rama con tus cambios
+3. Abrir un Pull Request
