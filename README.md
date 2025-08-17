@@ -20,9 +20,7 @@ Se aplican técnicas de **ETL**, visualización de datos y análisis exploratori
 - [Dependencias](#dependencias)  
 - [Uso](#uso)  
 - [Análisis y Resultados](#análisis-y-resultados)  
-- [Problemas Comunes](#problemas-comunes)  
-- [Contribuciones](#contribuciones)  
-- [Licencia](#licencia)  
+- [Contribuciones](#contribuciones)   
 
 ## Instalación
 ```bash
